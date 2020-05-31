@@ -1,0 +1,10 @@
+{
+    "include": [
+        "**/*", 
+    //    "shad/**/*.vtx", 
+      //  "shad/**/*.frg",
+    ],
+//    "rootDir": ".",
+//    "outDir": "../built/src",
+    "extends": "../tsconfig-base.json",
+}
